@@ -1,10 +1,9 @@
 var exec = require('child_process').exec;
+var urlFormat = require('url').format;
 var app = require('express')()
 app.set('view engine', 'ejs');
-app.set('views', './templates-server');
+app.set('views', './templates');
 
-var bodyParser = require('body-parser')
-app.use(bodyParser.urlencoded());
 
 function openUrl(url, callback) {
     if (!url) {
@@ -18,24 +17,35 @@ function openUrl(url, callback) {
     exec('open -a "Google Chrome" "' + url + '"', callback);
 }
 
+var bodyParser = require('body-parser')
+app.use(bodyParser.urlencoded());
+
 app.get('/', function (req, res) {
-    openUrl(req.query.url, function (err, message) {
-        if (err) {
-            console.error(err);
-            message = String(err);
+    res.render('index.ejs', {
+        message: req.query.message
+    });
+});
+app.post('/', function (req, res) {
+    var url = req.body.url;
+    openUrl(url, function (error, message) {
+        if (error) {
+            console.error(error);
+            message = String(error);
         }
         if (!message) {
             message = 'Success!';
         }
-        console.log(message);
-        res.end(JSON.stringify({
-            message: message
-        }));
+        res.redirect(urlFormat({
+            pathname: '/',
+            query: {
+                message: message
+            }
+        }))
     });
 });
-app.listen(3001, function (err) {
+app.listen(3000, function (err) {
     if (err) {
         throw err;
     }
-    console.log('now listening on port', 3001);
+    console.log('now listening on port', 3000);
 });
