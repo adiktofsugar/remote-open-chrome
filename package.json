@@ -1,0 +1,30 @@
+{
+  "name": "remote-open-chrome",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "pcp": "cp local.remoteopenchrome.plist ~/Library/LaunchAgents",
+    "prm": "rm ~/Library/LaunchAgents/local.remoteopenchrome.plist",
+    "pload": "launchctl load ~/Library/LaunchAgents/local.remoteopenchrome.plist",
+    "punload": "launchctl unload ~/Library/LaunchAgents/local.remoteopenchrome.plist",
+    "pstart": "launchctl start local.remoteopenchrome",
+    "pinfo": "launchctl list | head -n 1; launchctl list | grep local.remoteopenchrome || echo '(nothing)'",    
+    "install_as_daemon": "sudo cp local.remoteopenchrome.plist /Library/LaunchDaemons/",    
+    
+    "client": "forever -l forever-logs.txt -o forever-logs.txt -e forever-logs.txt client.js",
+    "server": "forever -l forever-logs.txt -o forever-logs.txt -e forever-logs.txt server.js",
+    
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sean McCollum <anincrediblyshortname@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "ejs": "^2.5.1",
+    "express": "^4.14.0",
+    "forever": "^0.15.2",
+    "request": "^2.74.0"
+  }
+}
