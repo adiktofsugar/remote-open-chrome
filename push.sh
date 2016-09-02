@@ -1,7 +1,12 @@
 #!/bin/bash
 project_root="`cd $(dirname ${BASH_SOURCE[0]}); pwd`"
+
+#
+# This is where I had mounted the samba share
+#
 mount_path="/Volumes/Users"
 dest="$mount_path/Public/remote-open-chrome"
+
 src="$project_root"
 
 smb_result="`smbutil statshares -m \"$mount_path\"`"
