@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>remote open chrome - client</title>
+    <style>
+    form input {
+        width: 100%;
+        line-height: 2.5em;
+        font-size: 20px;
+    }
+    form button[type="submit"] {
+        font-size: 20px;
+        line-height: 2em;
+        padding: 10px 80px;
+        background: #09b;   
+        border: 1px solid gray;
+        color: white;
+    }
+    </style>
+</head>
+<body>
+    <% if (message) { %>
+    <p><%= message %></p>
+    <% } %>
+    <h1>Type what you want the remote machine to open</h1>
+    <form action="." method="post">
+        <input type="text" name="url" />
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>

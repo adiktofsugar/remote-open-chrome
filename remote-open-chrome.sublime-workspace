@@ -1,0 +1,1234 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"jqu",
+				"jqueryAuth"
+			],
+			[
+				"err",
+				"errorThrown"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"dashbo",
+				"dashboardResults"
+			],
+			[
+				"das",
+				"dashboardResults"
+			],
+			[
+				"access",
+				"accessToken"
+			],
+			[
+				"open",
+				"openAMHost"
+			],
+			[
+				"para",
+				"parameters"
+			],
+			[
+				"pra",
+				"parameterSpec"
+			],
+			[
+				"param",
+				"parameterSpec"
+			],
+			[
+				"requ",
+				"require"
+			],
+			[
+				"openAM",
+				"openAMParsedUrl"
+			],
+			[
+				"acc",
+				"accessToken"
+			],
+			[
+				"submoi",
+				"submitFormsUntilJson"
+			],
+			[
+				"hit",
+				"hitTokenEndpoint"
+			],
+			[
+				"submi",
+				"submitFormsUntilJson"
+			],
+			[
+				"getF",
+				"getFormData"
+			],
+			[
+				"makeR",
+				"makeRequest"
+			],
+			[
+				"cookie",
+				"cookieJar"
+			],
+			[
+				"login",
+				"loginPageData"
+			],
+			[
+				"location",
+				"locationUrl"
+			],
+			[
+				"proto",
+				"protocol"
+			],
+			[
+				"parsed",
+				"parsedNextUrl"
+			],
+			[
+				"loca",
+				"locationUrl"
+			],
+			[
+				"new",
+				"newUrl"
+			],
+			[
+				"prot",
+				"protocol"
+			],
+			[
+				"newP",
+				"newParsedUrl"
+			],
+			[
+				"make",
+				"makeRedirectRequest"
+			],
+			[
+				"enter",
+				"enterCredentials"
+			],
+			[
+				"dash",
+				"dashboardUrl"
+			],
+			[
+				"arra",
+				"arrayLikeObject"
+			],
+			[
+				"ex",
+				"extraRequestParameters"
+			],
+			[
+				"request",
+				"requestParameters"
+			],
+			[
+				"get",
+				"getAccessToken"
+			],
+			[
+				"load",
+				"loadWidgetLibrary"
+			],
+			[
+				"bower",
+				"bowerInstall"
+			],
+			[
+				"templ",
+				"templateRequireName"
+			],
+			[
+				"template",
+				"templateModule"
+			],
+			[
+				"compon",
+				"componentRequireName"
+			],
+			[
+				"comp",
+				"componentModule"
+			],
+			[
+				"librar",
+				"libraryBaseUrl"
+			],
+			[
+				"widgetL",
+				"widgetLibrary"
+			],
+			[
+				"widgetLib",
+				"widgetLibrary"
+			],
+			[
+				"widgetBu",
+				"widgetBundleLoader"
+			],
+			[
+				"bundle",
+				"bundleError"
+			],
+			[
+				"name",
+				"nameMatch"
+			],
+			[
+				"bundel",
+				"bundleUrl"
+			],
+			[
+				"repl",
+				"replaceName"
+			],
+			[
+				"np",
+				"npmInstall"
+			],
+			[
+				"mani",
+				"manifestTree〔variable〕"
+			],
+			[
+				"boot2",
+				"boot2docker_cmd"
+			],
+			[
+				"tmp",
+				"tmp_file"
+			],
+			[
+				"tmp_",
+				"tmp_file_name"
+			],
+			[
+				"ca",
+				"callidussoftware"
+			],
+			[
+				"project",
+				"project_cmd"
+			],
+			[
+				"projec",
+				"project_cmd"
+			],
+			[
+				"docker",
+				"docker_image_callidus_cloud_home"
+			],
+			[
+				"proj",
+				"project_cmd"
+			],
+			[
+				"fast",
+				"fast_modifiers"
+			],
+			[
+				"java",
+				"java_projects"
+			],
+			[
+				"series",
+				"seriesData"
+			],
+			[
+				"wi",
+				"widgetId"
+			],
+			[
+				"bundleN",
+				"bundleNameMatch"
+			],
+			[
+				"bun",
+				"bundleName"
+			],
+			[
+				"widgetNa",
+				"widgetNames"
+			],
+			[
+				"widget",
+				"widgetBundleLoader"
+			],
+			[
+				"Bun",
+				"BundleUriStatuses〔variable〕"
+			],
+			[
+				"Bund",
+				"BundleUriStatuses"
+			],
+			[
+				"callk",
+				"callbacks〔variable〕"
+			],
+			[
+				"widgetName",
+				"widgetNameToBundleUri"
+			],
+			[
+				"Bu",
+				"BundleUriStatuses"
+			],
+			[
+				"fodlers",
+				"folders_changed"
+			],
+			[
+				"folders",
+				"folders_changed"
+			],
+			[
+				"bundl",
+				"bundleUri"
+			],
+			[
+				"bundleU",
+				"bundleUri〔variable〕"
+			],
+			[
+				"sta",
+				"statuses〔variable〕"
+			],
+			[
+				"widgetN",
+				"widgetName"
+			],
+			[
+				"ensu",
+				"ensure_etc_hosts"
+			],
+			[
+				"ens",
+				"ensure_etc_hosts"
+			],
+			[
+				"etc",
+				"etc_hosts_cmd"
+			],
+			[
+				"apa",
+				"apacheServerNode"
+			],
+			[
+				"dashboard",
+				"dashboardServicesNode"
+			],
+			[
+				"serv",
+				"services_ip"
+			],
+			[
+				"ora",
+				"oracle_ip"
+			],
+			[
+				"apache",
+				"apacheServerNode"
+			],
+			[
+				"orac",
+				"oracleDBNode"
+			],
+			[
+				"dashboard-",
+				"dashboard-oracle"
+			],
+			[
+				"insta",
+				"install_dashboard_dev_cmd"
+			],
+			[
+				"install",
+				"install_dashboard_cmd"
+			],
+			[
+				"set",
+				"setYearsBeforePeriodNames"
+			],
+			[
+				"prod",
+				"producerName"
+			],
+			[
+				"too",
+				"tooltipFormatter"
+			],
+			[
+				"form",
+				"formatMoney"
+			],
+			[
+				"categor",
+				"category"
+			],
+			[
+				"tool",
+				"tooltipFormatter"
+			],
+			[
+				"point",
+				"pointStrings"
+			],
+			[
+				"Lin",
+				"LinearGradientRgb〔class〕"
+			],
+			[
+				"b",
+				"blue"
+			],
+			[
+				"gr",
+				"green"
+			],
+			[
+				"acce",
+				"accessToken〔variable〕"
+			],
+			[
+				"reques",
+				"requestType"
+			],
+			[
+				"parse",
+				"parseInt〔function〕"
+			],
+			[
+				"toke",
+				"tokenInfo〔variable〕"
+			],
+			[
+				"tokenI",
+				"tokenInfo"
+			],
+			[
+				"deposi",
+				"depositHeldStatus"
+			],
+			[
+				"depo",
+				"depositHeldStatus"
+			],
+			[
+				"ini",
+				"initiallyLoadedDepositHeldStatus"
+			],
+			[
+				"filter",
+				"filterDepositHeldStatus"
+			],
+			[
+				"fil",
+				"filterDepositHeldStatus"
+			],
+			[
+				"deposit",
+				"depositHeldStatus〔variable〕"
+			],
+			[
+				"_ca",
+				"_ca_home"
+			],
+			[
+				"overr",
+				"overrideChartSettings"
+			],
+			[
+				"ChartFr",
+				"ChartForecastAdapter"
+			],
+			[
+				"error",
+				"errorThrown〔argument〕"
+			],
+			[
+				"erro",
+				"errorResponse〔class〕"
+			],
+			[
+				"year",
+				"yearItems"
+			],
+			[
+				"ajax",
+				"ajaxOptions〔variable〕"
+			],
+			[
+				"saml",
+				"samlResponse〔argument〕"
+			],
+			[
+				"onlo",
+				"onloadMatch"
+			],
+			[
+				"setNe",
+				"setNextAjaxOptions"
+			],
+			[
+				"cur",
+				"curl_options"
+			],
+			[
+				"instal",
+				"install_dashboard_cmd"
+			],
+			[
+				"start",
+				"start_boot2docker"
+			],
+			[
+				"boot",
+				"boot2docker_profile"
+			],
+			[
+				"seriesDa",
+				"seriesDataPoint"
+			],
+			[
+				"seriesO",
+				"seriesOptions"
+			],
+			[
+				"prog",
+				"productsByMargin"
+			],
+			[
+				"dff",
+				"diffValue"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "server.js",
+			"settings":
+			{
+				"buffer_size": 1223,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 548,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "prett",
+		"selected_items":
+		[
+			[
+				"prett",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"lin",
+				"Line Ending to all views: Unix"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"lips",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"package ",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"package con",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"package",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"settings ",
+				"Preferences: Settings - User"
+			],
+			[
+				"settings",
+				"Preferences: Settings - User"
+			],
+			[
+				"ori",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"package control sett",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"remove pac",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Public/remote-open-chrome",
+		"/C/Users/Public/remote-open-chrome/logs",
+		"/C/nginx/nginx-1.11.3",
+		"/C/nginx/nginx-1.11.3/conf",
+		"/C/nginx/nginx-1.11.3/html",
+		"/C/Users/Sean/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup"
+	],
+	"file_history":
+	[
+		"/C/Users/Sean/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup/remote-chrome-desktop.cmd",
+		"/C/Users/Sean/Desktop/RUN - remote-chrome-server.lnk",
+		"/C/Users/Public/remote-open-chrome/remoteopenchromeservice.xml",
+		"/C/nginx/nginx-1.11.3/conf/nginx.conf",
+		"/C/Users/Public/remote-open-chrome/logs/remoteopenchromeservice.err.log",
+		"/C/nginx/nginx-1.11.3/nginxservice.xml",
+		"/C/nginx/nginx-1.11.3/nginxservice.err.log",
+		"/C/Users/Public/remote-open-chrome/nginx.conf",
+		"/C/nginx/nginx-1.11.3/nginxservice.wrapper.log",
+		"/C/nginx/nginx-1.11.3/nginxservice.out.log",
+		"/C/nginx/nginx-1.11.3/conf.xml",
+		"/C/Program Files (x86)/nodejs/npm.cmd",
+		"/C/Users/Sean/Downloads/playstation3_controller/readme.txt",
+		"/C/Program Files (x86)/Steam/steamapps/common/No Man's Sky/Binaries/SETTINGS/TKGRAPHICSSETTINGS.MXML",
+		"/E/gameconfig.txt",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/callidus-auth/.gitignore",
+		"/C/Users/Sean/Downloads/Fat32FormatterEN/Fat32Formatter1.1EN/readme.txt",
+		"/C/Users/Public/wiiu-vwii/wii_games/Super_Smash_Bros_Brawl_USA_Wii-WiiZARD/wzrd-ssbb.nfo",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/widget-library-ember/Brocfile.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/ember/Brocfile.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/ember/dist/jquery-auth/index.html",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/ember/dist/index.html",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/ember/package.json",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/ember/app/adapters/callidus-auth-rest-adapter.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/jquery-auth/index.html",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/widget-bundle-creator/lib/tasks.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/callidus-auth/lib/cli.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/widget-bundle-creator/package.json",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/callidus-auth/index.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/callidus-auth/lib/Session.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/callidus-auth/package.json",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/callidus-auth/lib/SamlPage.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/widget-bundle-creator/cli.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/callidus-auth/lib/get-document-from-html.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/callidus-auth/lib/auth.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/callidus-auth/lib/utils.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/widget-bundle-creator/lib/auth.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/widget-bundle-creator/lib/saml-page.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/ember/app/services/widget-bundle-loader.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/widget-bundle-creator/test.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/test.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/ember/app/adapters/application.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_devtools/bin/ca",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/ember/app/initializers/set-container-in-service.js",
+		"/C/Users/Sean/calliduscloud/workspace/third_party_libraries/um-docker-install/dashboard/installDashboardServices-dev.sh",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/ember/app/initializers/store-the-things.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/ember/app/models/producer.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/widget-library-ember/app/components/ranked-producers.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/widget-library-ember/app/components/top-customers.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/ember/app/transforms/identity.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/ember/app/models/top-customer.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/widget-library-ember/app/components/deposit-distribution.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/ember/.jshintrc",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/ember/.jscsrc",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/ember/app/serializers/application.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/ember/app/models/widget-instance.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/widget-library-ember/.jshintrc",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/widget-library-ember/rm-files",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/widget-library-ember/.gitignore",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/widget-library-ember/app/components/sales-volume.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/widget-library-ember/app/components/sales-volume-earning.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/widget-library-ember/app/components/positions-by-payment.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/widget-library-ember/app/components/products-by-revenue.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/widget-library-ember/app/components/products-by-margin.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/widget-library-ember/app/components/premium-prediction.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/widget-library-ember/app/components/payment-prediction.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/widget-library-ember/git-rename",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/widget-library-ember/app/components/payment-distribution.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/widget-library-ember/app/components/earning-group-filter.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/widget-library-ember/app/components/deposit-prediction.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/widget-library-ember/app/components/positions-by-deposit.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/widget-library-ember/app/templates/components/widget-wrapper.hbs",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/widget-bundle-creator/widget-bundle-skeleton/.gitignore",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/ember/app/models/widget-libraries.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/ember/app/router.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/ember/app/templates/widget-libraries.hbs",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/ember/app/app.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/ember/app/controllers/widget-libraries.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/ember/app/routes/widget-libraries.js",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/ember/app/routes/dashboard.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/ember/app/models/deposit-distribution.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/ember/app/models/dashboard.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/ember/app/templates/dashboard.hbs",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/ember/app/templates/dashboard/show.hbs",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/ember/app/controllers/dashboard/show.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/widget-library-ember/app/templates/components/positions-by-deposit.hbs",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/default-widgets/app/templates/components/positions-by-deposit.hbs",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/widget-library-ember/app/index.html",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/widget-bundle-creator/widget-bundle-skeleton/app/index.html",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/widget-bundle-creator/node_modules/npm/lib/install.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/widget-bundle-creator/node_modules/npm/doc/api/npm-install.md",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/widget-bundle-creator/node_modules/npm/doc/api/npm.md",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/widget-bundle-creator/node_modules/npm/doc/api/npm-root.md",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/widget-bundle-creator/node_modules/npm/doc/api/npm-commands.md",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/widget-bundle-creator/node_modules/npm/doc/api/npm-config.md",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/widget-bundle-creator/node_modules/npm/doc/api/npm-load.md",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/widget-bundle-creator/node_modules/npm/package.json",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/widget-bundle-creator/node_modules/npm/lib/npm.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/widget-bundle-creator/node_modules/npm/cli.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/widget-bundle-creator/widget-bundle-skeleton/package.json",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/widget-library-webapp/pom.xml",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/widget-library-ember/package.json",
+		"/C/Users/Sean/AppData/Roaming/npm/bower",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/widget-library-ember/.npmrc",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/widget-library-ember/node_modules/broccoli-merge-trees/index.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/find-installed-modules.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/default-widgets/package.json",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/fakething/package.json",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/ember/app/components/widget-sales-volume-earning.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/ember/app/models/sales-volume-earning.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/ember/app/components/widget-deposit-distribution.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_devtools/bin/ca-bash-profile-setup",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/ember/app/chart-drawer/formatters.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_services/dashboard/db/migrate/V6__sales_earning_volume_widget.sql",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_devtools/bin/remote-command",
+		"/C/Users/Sean/calliduscloud/workspace/temp-dashboard-services-command.sh",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_devtools/bin/remote-ca-mvn-install",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/ember/app/templates/components/widget-sales-volume-earning.hbs",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/ember/app/models/sales-earning-volume.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/ember/app/components/widget-sales-earning-volume.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/ember/app/templates/components/widget-sales-earning-volume.js",
+		"/C/Users/Sean/Downloads/Adobe Photoshop CS6 13.0 Final  Multilanguage (patch-PainteR) [ChingLiu]/ChingLiu.Notes.nfo",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_services/dashboard/db/migrate/V5__changes_post_R1.sql",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/ember/app/components/widget-deposit-prediction.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/ember/app/components/widget-products-by-margin.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/ember/app/chart-drawer/bar-adapter.js",
+		"/C/Users/Sean/calliduscloud/workspace/dashboard_ui/ember/app/components/widget-ranked-producers.js"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			"C:\\Users\\Sean\\calliduscloud\\workspace\\dashboard_ui\\widget-library-ember\\app\\components",
+			"C:\\Users\\Sean\\calliduscloud\\workspace\\dashboard_ui\\ember\\app",
+			"C:\\Users\\Sean\\calliduscloud\\workspace\\dashboard_ui\\widget-library-ember\\app\\templates\\components",
+			"C:\\Users\\Sean\\calliduscloud\\workspace\\dashboard_services",
+			"C:\\Users\\Sean\\calliduscloud\\workspace\\dashboard_ui\\default-widgets\\node_modules\\ember-cli",
+			"C:\\Users\\Sean\\calliduscloud\\workspace\\dashboard_ui\\ember\\app\\components",
+			"C:\\Users\\Sean\\calliduscloud\\workspace\\dashboard_ui\\ember\\app\\chart-drawer",
+			"C:\\Users\\Sean\\calliduscloud\\workspace\\dashboard_ui\\ember\\app\\components",
+			"C:\\Users\\Sean\\calliduscloud\\workspace\\dashboard_ui\\ember\\app\\templates\\components",
+			"C:\\Users\\Sean\\calliduscloud\\workspace\\dashboard_ui\\ember\\app\\components",
+			"C:\\Users\\Sean\\calliduscloud\\workspace\\dashboard_ui\\ember\\app",
+			"C:\\Users\\Sean\\calliduscloud\\workspace\\dashboard_ui\\default-widgets-2\\node_modules\\ember-cli",
+			"C:\\Users\\Sean\\calliduscloud\\workspace\\dashboard_ui\\ember\\node_modules\\ember-cli",
+			"C:\\Users\\Sean\\calliduscloud\\workspace\\third_party_libraries\\um-docker-install\\common",
+			"C:\\Users\\Sean\\calliduscloud\\workspace\\ansible_integration",
+			"C:\\Users\\Sean\\calliduscloud\\workspace\\dashboard_ui\\ember\\app\\components",
+			"C:\\Users\\Sean\\workspace\\dashboard_devtools",
+			"C:\\Users\\Sean\\workspace\\dashboard_ui\\app\\adapters",
+			"C:\\Users\\Sean\\workspace\\dashboard_ui\\app\\components",
+			"C:\\Users\\Sean\\workspace\\ansible_integration\\roles\\common_qa\\templates",
+			"C:\\Users\\Sean\\workspace\\ansible_integration",
+			"C:\\Users\\Sean\\workspace\\dashboard_devtools",
+			"C:\\Users\\Sean\\workspace\\dashboard_ui\\app\\templates",
+			"C:\\Users\\Sean\\workspace\\dashboard_ui\\app\\templates\\components",
+			"C:\\Users\\Sean\\Downloads\\Analytics_Editor_predictions_150508_v2\\js",
+			"C:\\Users\\Sean\\workspace\\dashboard_ui\\app",
+			"C:\\Users\\Sean\\workspace\\dashboard_ui\\node_modules\\ember-cli",
+			"C:\\Users\\Sean\\workspace\\dashboard_ui,-node_modules/**",
+			"C:\\Users\\Sean\\workspace\\dashboard_ui,-node_modules",
+			"C:\\Users\\Sean\\workspace\\dashboard_ui",
+			"C:\\cygwin64\\home\\Sean\\lendsnap\\web-ui\\code",
+			"C:\\cygwin64\\home\\Sean\\lendsnap-recover\\web-ui",
+			"C:\\cygwin64\\home\\Sean\\videosub\\infusionsoft",
+			"C:\\cygwin64\\home\\Sean\\lendsnap\\web-ui\\code"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"nginx",
+			"app\\.add_url_rule\\('(.+?)'.*\\n(\\s+methods=\\[(.+?)\\],.*\\n)?.+",
+			"app\\.add_url_rule\\('(.+?)'.*\\n\\s+methods=\\[(.+?)\\],.*\\n.+",
+			"app\\.add_url_rule\\('(.+?)'.+\\n\\s+methods=\\[(.+?)\\],.*\\n.+",
+			"app.add_url_rule\\('(.+?)'.+\\n\\s+methods=\\[(.+?)\\],.*\\n.+",
+			"app.add_url_rule\\('(.+?),.+?methods=",
+			"Ember",
+			"prompt",
+			"async",
+			"request",
+			"urlParse",
+			"http",
+			"prompt",
+			"jsdom",
+			"debug",
+			"debug(",
+			"console.log",
+			"getOpenAMHost",
+			"curentUrl",
+			"[Incom",
+			"document",
+			"window",
+			"LoginSubmit",
+			"elm",
+			"frm",
+			"hiddenFrm",
+			"elmCount",
+			"document.wr",
+			"makeRe",
+			"hitFormEndpoints",
+			"DashboardUi.__container__",
+			"refreshDa",
+			"revenues.forEach",
+			"tooltipForm",
+			"publish",
+			"../../",
+			"import (.+?) from (?:'|\")../(.+)(?:'|\");",
+			"import (.+?) from (?:'|\")../chart-drawer(.+)(?:'|\");",
+			"import (.+?) from ?('|\")../chart-drawer(.+)?('|\");",
+			"import ",
+			"wrapper",
+			"widgetBundleLoader",
+			"App",
+			"bundleU",
+			"widget_library",
+			"bundleN",
+			"npm",
+			"version",
+			"mergeRelativePath",
+			"^[\\s-]+(\\S+) version: (\\d\\.\\d\\.\\d)",
+			"^\\s+(\\S+) version: (\\d\\.\\d\\.\\d)",
+			"tooltipFormatter",
+			"docker ex",
+			"data",
+			"updateData",
+			"data",
+			"data(",
+			"update",
+			"updateData",
+			"productsByMargin",
+			"bubbl",
+			"redraw",
+			"tooltipFormatter",
+			"bubble",
+			".info",
+			"WidgetBundle.BundleUriStatuses",
+			"WidgetBundleRegister",
+			"uri",
+			"MyPlugin",
+			"toTree",
+			"load",
+			"Ember.inject.service('widget-bundle-loader')",
+			"type",
+			"BundleUriStatus",
+			"resolv_",
+			"Ember.warn",
+			"Ember.log",
+			"BundleUriStatus",
+			"observer",
+			"listener",
+			".alias",
+			"inject",
+			"componentName",
+			"Ember['default'].TEMPLATES",
+			"buildDef",
+			"create:",
+			"implementation:",
+			"implementation",
+			"create:",
+			"Ember.Appl",
+			"default-widgets/app",
+			"initializer-factory",
+			"initializer",
+			"ember-cli-app-version",
+			"initializer-fac",
+			"ember-cli-app-version",
+			"Application",
+			"application-",
+			"dependenc",
+			"project",
+			"dependencies",
+			"_initProject",
+			"registry",
+			"addons",
+			"addonPostprocessTree",
+			"preprocessJs",
+			"appAn",
+			"appAndDependencies",
+			"_contentForHead",
+			"contentFor",
+			"_configReplacePatterns",
+			"_processedEmberCLITree",
+			"appAndDependencies",
+			"vendor/ember-cli/app-prefix.js",
+			"_configTr",
+			"inde",
+			"ConfigReplace",
+			"index",
+			"toArray",
+			"_ember",
+			"dashboard-ui/config/environment",
+			"ember-cli-htmlbars",
+			"configLoader",
+			"-cli",
+			"bars",
+			"widget-defa",
+			"handleb",
+			"link"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"remote-open-chrome",
+			"$1",
+			"$1\\n\\t$2",
+			"$1 - $2",
+			"debug",
+			"currentUrl",
+			"doc",
+			"win",
+			"element",
+			"form",
+			"hiddenForm",
+			"this.container",
+			"",
+			"import $1 from 'dashboard-ui/$2';",
+			"import $1 from 'dashboard-ui/chart-drawer$2';",
+			"    \"$1\": \"$2\",",
+			"    \"/1\": \"/2\",",
+			"salesVolumeEarning",
+			"BundleUriStatuses",
+			"url",
+			"ManifestPlugin",
+			"BundleUriStatuses",
+			"'",
+			"self",
+			"serverProviderName",
+			"realmName",
+			"openAMHost",
+			"xhr",
+			"$dashboardServicesNode",
+			"dashboard-services.calliduscloud.com",
+			"blue",
+			"green",
+			"_",
+			"infoB",
+			"infoA",
+			"valueSeriesData",
+			"mvn_install",
+			"mvn install",
+			"'",
+			"string",
+			"CallidusAuthRESTAdapter",
+			"RESTAdapter",
+			"'Problem with data'",
+			"dataPoint",
+			"'",
+			"",
+			"$user",
+			" --tty",
+			"ETC_HOSTS_PATH",
+			"etc_hosts_path",
+			"oraimage",
+			"openam",
+			"ca-btn-no-border",
+			"name",
+			"'",
+			"_init",
+			"docker_image_callidus_cloud_home",
+			"ca_home",
+			"CA_HOME",
+			"col-sm",
+			"col-md",
+			"col-lg-4",
+			"positionsByPayment",
+			"'",
+			"depositHeldStatus",
+			"period",
+			"'",
+			"options",
+			"column",
+			"'",
+			"USER_IS_CREATED",
+			"res.status(\\1).end()",
+			"scriptExists",
+			"_pollWindowLastLocationEmitted",
+			"_pollWindowShouldEmitClosed",
+			"_pollWindowTimeout",
+			"pollWindowTimeout",
+			"",
+			"getFeatures",
+			"getName",
+			"hide",
+			"port",
+			"logger.info",
+			"UPLOADED_DISK",
+			"uuid",
+			"ui",
+			"cacheJson",
+			"cacheServices",
+			"../code/",
+			"../../",
+			"info",
+			"user_data_template_path",
+			"user_data_path",
+			".ssh-config",
+			"",
+			"user_data_path"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "server.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1223,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 548,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								548,
+								548
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "remote-open-chrome.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"server",
+				"remote-open-chrome\\server.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Sean\\workspace\\callidus-cloud.sublime-project"
+			]
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 365.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
